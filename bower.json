@@ -1,0 +1,26 @@
+{
+  "name": "Nalchik",
+  "homepage": "spicedpages.ru",
+  "authors": [
+    "AlexanderDolgan <5704737@gmail.com>"
+  ],
+  "description": "resraurant",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1",
+    "normalize-strings": "normalize#^1.1.0",
+    "juice": "^1.0.1",
+    "breakpoint-sass": "^2.7.0",
+    "susy": "^2.2.12",
+    "normalize-css": "^7.0.0",
+    "normalize-scss": "^3.0.3"
+  }
+}
